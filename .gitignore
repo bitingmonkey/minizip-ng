@@ -1,3 +1,7 @@
 build/
 third_party/
 .vscode
+build-ios/
+build-ios-sim/
+build-macos/
+build-xcframework
